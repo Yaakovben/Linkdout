@@ -5,7 +5,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Linkdout.Controllers
-{ //
+{ ///
+    ///
+    
     [Route("api/[controller]")]
     [ApiController]
     [Produces("application/json")]
